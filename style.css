@@ -1,0 +1,52 @@
+body {
+  font-family: Arial, sans-serif;
+  background: url(naturebg.jpg) no-repeat center center/cover;
+}
+
+.container {
+  max-width: 400px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.input-group {
+  margin-bottom: 10px;
+}
+
+.input-group label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.input-group input {
+  width: 100%;
+  padding: 5px;
+  font-size: 16px;
+}
+
+.convert-btn {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  margin-top: 10px;
+  background-color: #168e1a;
+  color: white;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  border-radius: 10px;
+}
+
+.result {
+  margin-top: 20px;
+  font-weight: bold;
+  text-align: center;
+  color: white;
+  background-color: rgb(227, 77, 13);
+  padding:12px 2px;
+  border-radius: 10px;
+}
